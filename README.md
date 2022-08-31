@@ -7,7 +7,6 @@
 - 🔭 I’m a Computer Science senior at **Virginia Tech** and a Systems Engineer Intern at **Wind River Systems**
 - ⚡ I'm the lead developer for the **AnilistPython** and the **anime-python** libraries
 - 🌱 I'm interested in **Systems Design, Cloud Software Development, and Computer Networks**
-- 📄 Feel free to reach out to me at kevinliu@vt.edu.
 
 ### 🛠 &nbsp;Tech Stack
 
