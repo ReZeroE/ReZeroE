@@ -58,10 +58,11 @@
 
 <p align="center">
   <a href="https://github.com/ReZeroE">
-    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api?username=ReZeroE&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    <img align="center" height="150em" src="https://github-readme-stats-coral-five.vercel.app/api?username=ReZeroE&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
   <a href="https://github.com/ReZeroE">
-    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api/top-langs/?username=ReZeroE&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ReZeroE&repo=AnilistPython&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
+    
   </a>
 </p>
 
