@@ -4,8 +4,8 @@
 
 <!-- <img alt="Coding GIF" src="./coding.gif" align="right" height="auto" width="270" style="border-radius:50%"> -->
 
-- 🔭 I’m a Computer Science senior at **Virginia Tech** and a Systems Engineer Intern at **Wind River Systems**
-- ⚡ I'm the lead developer for the **AnilistPython** and the **anime-python** libraries
+- 🔭 I’m a Computer Science graduate from **Virginia Tech** and a Software Developer at ARCSys
+- ⚡ I'm currently actively developing the `starrail` Python module for Honkai: Star Rail's automation
 - 🌱 I'm interested in **Systems Design, Cloud Software Development, and Computer Networks**
 
 ### 🛠 &nbsp;Tech Stack
