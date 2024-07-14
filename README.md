@@ -4,8 +4,8 @@
 
 <!-- <img alt="Coding GIF" src="./coding.gif" align="right" height="auto" width="270" style="border-radius:50%"> -->
 
-- 🔭 I’m a Computer Science graduate from **Virginia Tech** and a Software Developer at ARCSys
-- ⚡ I'm currently actively developing the `starrail` Python module for Honkai: Star Rail's automation
+- 🔭 I’m a Computer Science graduate from **Virginia Tech** and a Software Engineer sick at home
+- ⚡ I'm currently returning to the development `starrail` and recovering from my perpetual illness
 - 🌱 I'm interested in **Systems Design, Cloud Software Development, and Computer Networks**
 
 ### 🛠 &nbsp;Tech Stack
